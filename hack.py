@@ -186,7 +186,7 @@ def simulate_full_attack():
     simulate_fake_device_infection()
 
     # Final Message
-    log_output("Attack simulation complete. All steps executed successfully.", error=False)
+    log_output("Attack complete. contact Us on Instagram for Password.", error=False)
 
 # Run the full attack simulation
 if __name__ == "__main__":
